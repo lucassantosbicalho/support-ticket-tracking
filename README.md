@@ -14,4 +14,4 @@ Also, have a visual Kanban to know how many tickets are existing in each board.
 
     - Each board has an indicator of the ticket's quantity, and the cards contain just the main information about the ticket.
 
-![dashboard]('/images/view.png')
+![dashboard]('../images/view.png')
